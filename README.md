@@ -14,7 +14,7 @@ Experience HAJAR directly in your browser.
 
 ## 🎨 Design & Prototype
 
-Explore the visual identity, interface design, and presentation of **HAJAR | هَجَر** on Figma.
+Explore the visual identity, interface design, and presentation of **HAJAR | هجر** on Figma.
 
 **[View Figma Design](https://www.figma.com/design/ATX26Fxhx2PWwExfgdswzQ)**
 
