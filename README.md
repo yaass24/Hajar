@@ -1,4 +1,4 @@
-# HAJAR | هَجَر
+# HAJAR | هجر
 
 ### Explore Al-Ahsa Through an Interactive 3D Adventure
 
